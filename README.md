@@ -2,7 +2,7 @@
 
 Welcome to the **Wizard World AI Search** project! This web application allows users to ask questions via a search bar and receive AI-generated responses displayed in a user-friendly textarea. The application uses React, Tailwind CSS, and integrates with an AI language model for content generation.
 
-![Wizard World Screenshot](../GetAns/public/Image.png)
+![Wizard World Screenshot](../public/Image.png)
 
 ## Features
 
